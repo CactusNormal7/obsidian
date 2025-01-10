@@ -1,3 +1,5 @@
+[[Presentation projet]]
+[[Soutenance ydays.canvas|Soutenance ydays]]
 ## Front
 	- Nuxt js (Framework basé sur vue js, qui facilite le developpement de site web SEO-friendly / SSR fac
 
