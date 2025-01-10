@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b83f135db925a750","type":"file","file":"notes/ydays/Presentation projet.md","x":-310,"y":-640,"width":590,"height":940,"color":"6"},
+		{"id":"9dbc87287c28190e","x":340,"y":-640,"width":450,"height":940,"type":"text","text":"## Gabriel : \n\t- cité les noms pendant le sommaire \n\t- eventuellement on pourra mettre des screen du workflow pour la gestion de projet\n\n## Moi \n\t- Parler moins tech\n\t- Prendre potentiellement moins de temps a reflechir\n## Peto\n\t- Pas oublier de s'introduire\n\t- trop formel je pense\n\t- Répétitions\n\n## Thomas\n\t- Mettre le logo de cloudfare\n\t- \n\n## Quentin\n\t- \n\t- \n\n## global\n\t- gestion plus poussé des parametres (categorie de questions)\n\t- "},
+		{"id":"c01481b50acc5aca","type":"file","file":"notes/ydays/Technologies utilisées.md","x":-310,"y":680,"width":590,"height":800,"color":"4"},
+		{"id":"4d0e4a29038364cf","type":"text","text":"Maintenant on va parler des tech utilisées","x":-140,"y":440,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"bc4f1b31e60c35a7","fromNode":"b83f135db925a750","fromSide":"bottom","toNode":"4d0e4a29038364cf","toSide":"top"},
+		{"id":"310eda631805876a","fromNode":"4d0e4a29038364cf","fromSide":"bottom","toNode":"c01481b50acc5aca","toSide":"top"}
+	]
+}
