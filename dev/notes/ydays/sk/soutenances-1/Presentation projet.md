@@ -17,7 +17,7 @@ Pour ceux qui ne connaitraient pas, le site est hautement inspiré de Pop sauce,
 
 Donc comment se compose pop sauce ? Ici on a une image de la page de jeux, pop sauce a une architecture très simple, 'et trop simple, 
 
-![[pop sauce image.png]]
+![[pop_sauce.png]]
 
 Ici on voit que la page se compose de plusieurs éléments, a droite les joueurs, avec score et dernière réponse, a gauche les paramétrages de la partie, qui permettent entre autre de choisir le nombre de point avant que la partie se finisse et de choisir des catégories, ainsi que quelques règles mineures.
 
