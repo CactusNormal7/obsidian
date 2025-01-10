@@ -7,7 +7,7 @@ Alors sk qu'est ce que c'est ?
 Smart kink est un site regroupant plusieurs jeux autour du theme de la culture générale, multijoueur en temps reel
 
 ## slide 2 (pop sauce)
-Pour ceux qui ne connaitraient pas, le site est hautement inspiré de Pop sauce, un jeux de quiz en temps réel, 
+Pour ceux qui ne connaitraient pas, le site est hautement inspiré de Pop sauce, un jeux de quiz en temps réel,
 
 <p style="color: red; font-weight:bold; font-size: 17px;">
 à partir de maintenant on va beuacoup parler  de comparaison entre les 2 car tout le site est construit sur la base de ce qu'as fait pop sauce
