@@ -10,10 +10,10 @@ Smart kink est un site regroupant plusieurs jeux autour du theme de la culture g
 Pour ceux qui ne connaitraient pas, le site est hautement inspiré de Pop sauce, un jeux de quiz en temps réel,
 
 <p style="color: red; font-weight:bold; font-size: 17px;">
-à partir de maintenant on va beuacoup parler  de comparaison entre les 2 car tout le site est construit sur la base de ce qu'as fait pop sauce
+à partir de maintenant on va beaucoup parler de comparaison entre les 2 car tout le site est construit sur la base de ce qu'as fait pop sauce
 </p>
 
-## slide 3 (pop sauce screen)
+## <span style="color:red;">slide 3 (pop sauce screen)</span>
 
 Donc comment se compose pop sauce ? Ici on a une image de la page de jeux, pop sauce a une architecture très simple, 'et trop simple, 
 
@@ -25,7 +25,7 @@ Les questions défilent donc a l'écran et chaque utilisateur peux répondre.
 
 ## slide 4 (améliorations)
 
-Pop sauce est en quelque sorte notre modèle, le point de départ, et on compte donc apporter des améliorations 
+Pop sauce est en quelque sorte notre modèle, le point de départ, et on compte donc apporter des améliorations
 
 Dans un premier temps, on importe le mode de jeux de base de pop sauce 
 
