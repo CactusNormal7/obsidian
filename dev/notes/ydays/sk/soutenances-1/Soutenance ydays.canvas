@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"b83f135db925a750","type":"file","file":"dev/notes/ydays/sk/soutenances-1/Presentation projet.md","x":-400,"y":-640,"width":680,"height":940,"color":"6"},
-		{"id":"9dbc87287c28190e","type":"text","text":"## Gabriel : \n\t- cité les noms pendant le sommaire \n\t- eventuellement on pourra mettre des screen du workflow pour la gestion de projet\n\n## Moi \n\t- Parler moins tech\n\t- Prendre potentiellement moins de temps a reflechir\n## Peto\n\t- Pas oublier de s'introduire\n\t- trop formel je pense\n\t- Répétitions\n\n## Thomas\n\t- Mettre le logo de cloudfare\n\t- \n\n## Quentin\n\t- \n\t- \n\n## global\n\t- gestion plus poussé des parametres (categorie de questions)\n\t- ","x":340,"y":-640,"width":450,"height":940},
-		{"id":"604f8ca87a46ce43","x":-420,"y":680,"width":700,"height":680,"type":"file","file":"dev/notes/ydays/sk/soutenances-1/Technologies utilisées.md"},
-		{"id":"4d0e4a29038364cf","type":"text","text":"Maintenant on va parler des tech utilisées","x":-185,"y":440,"width":250,"height":80}
+		{"id":"b83f135db925a750","type":"file","file":"dev/notes/ydays/sk/soutenances-1/Presentation projet.md","x":-420,"y":-640,"width":700,"height":940,"color":"6"},
+		{"id":"9dbc87287c28190e","type":"text","text":"## Gabriel : \n\t- cité les noms pendant le sommaire \n\t- eventuellement on pourra mettre des screen du workflow pour la gestion de projet\n\n## Moi \n\t- Parler moins tech\n\t- Prendre potentiellement moins de temps a reflechir\n## Peto\n\t- Pas oublier de s'introduire\n\t- trop formel je pense\n\t- Répétitions\n\n## Thomas\n\t- Mettre le logo de cloudfare\n\t- \n\n## Quentin\n\t- \n\t- \n\n## global\n\t- gestion plus poussé des parametres (categorie de questions)\n\t- ","x":340,"y":-640,"width":450,"height":940,"color":"1"},
+		{"id":"604f8ca87a46ce43","type":"file","file":"dev/notes/ydays/sk/soutenances-1/Technologies utilisées.md","x":-420,"y":680,"width":700,"height":980,"color":"5"},
+		{"id":"4d0e4a29038364cf","type":"text","text":"Maintenant on va parler des tech utilisées","x":-195,"y":440,"width":250,"height":80}
 	],
 	"edges":[
 		{"id":"bc4f1b31e60c35a7","fromNode":"b83f135db925a750","fromSide":"bottom","toNode":"4d0e4a29038364cf","toSide":"top","toEnd":"none"},
