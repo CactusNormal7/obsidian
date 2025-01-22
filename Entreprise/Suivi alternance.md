@@ -1,0 +1,31 @@
+
+
+- ### Introduction
+	- Bonjour, je vais présenter le déroulement de l'alternance jusqu'à maintenant
+	- -> Sommaire
+- ### Présentation de l'entreprise
+	- Perfmanager -> 2022
+	- Performance PME -> 2019
+- ### Présentation du logiciel
+	- C'est un logiciel qui sert a suivre gérer efficacement le système QSE d'une entreprise
+	- -> Différents modules (facturé + ou - cher)
+	- -> formations au logiciel 
+	- -> intégration
+	- Organisé par processus
+	- RH 
+	- Sécurité
+	- Environnement
+	- Indicateurs
+- ### Présentation du post
+	- Développeur 
+	- Jira
+	- Corrections bugs / Nouveaux dev
+	- -> Présenter vite fait les FDS 
+	- 
+- ### Intégration 
+	- Bien passé
+	- Naturellement
+	- -> Conviviales
+- ### Axes d'améliorations
+	- En adéquations avec l'entretien individuel
+	- Tout afficher sur le diapos
