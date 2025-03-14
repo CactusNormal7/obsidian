@@ -42,6 +42,5 @@ insert :
 	('Bob', 'bob@example.com');
 
 
-## uwu
 
 
