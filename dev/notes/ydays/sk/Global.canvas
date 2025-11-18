@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9a11c90acc66eb1a","type":"text","text":"# Global","x":-620,"y":-220,"width":250,"height":60,"color":"6"},
+		{"id":"8ca961ac09878b1b","type":"text","text":"## Soutenances \n","x":-200,"y":-215,"width":250,"height":50},
+		{"id":"c602d45764520500","type":"file","file":"dev/notes/ydays/sk/soutenances-1/S1.canvas","x":400,"y":-780,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0f6533188b1f9757","fromNode":"9a11c90acc66eb1a","fromSide":"right","toNode":"8ca961ac09878b1b","toSide":"left"},
+		{"id":"16b56f1d1c65645c","fromNode":"8ca961ac09878b1b","fromSide":"right","toNode":"c602d45764520500","toSide":"left"}
+	]
+}

@@ -1,5 +1,5 @@
 [[Technologies utilisées]]
-[[Soutenance ydays.canvas|Soutenance ydays]]
+[[S1.canvas|Soutenance ydays]]
 ## slide 1 (Qu'est ce que sk ?)
 Dans un premier temps bonjour a tous, 
 Alors sk qu'est ce que c'est ?

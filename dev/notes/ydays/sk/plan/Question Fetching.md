@@ -1,7 +1,8 @@
 ### 🌐 Lien vers le serveur local
 [Ouvrir localhost](http://localhost:8080)
+[[Global.canvas|Global]]
 
----
+w
 
 ## 🚀 Flux de démarrage du jeu
 
